@@ -1,0 +1,16 @@
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\bin\Debug\fORMS.exe.config
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\bin\Debug\fORMS.exe
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\bin\Debug\fORMS.pdb
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.csprojResolveAssemblyReference.cache
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.Form1.resources
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.Properties.Resources.resources
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.csproj.GenerateResource.Cache
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.exe
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.pdb
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.Form2.resources
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.Reg.resources
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.Form3.resources
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.counter.resources
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.Sponsor.resources
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.Form10.resources
+C:\Users\user07\Desktop\463 groupe\TASKS\fORMS\fORMS\obj\Debug\fORMS.Form13.resources
